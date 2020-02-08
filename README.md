@@ -1,5 +1,5 @@
 # XcodeCodeSnippets
-It is the collection of my the most useful code snippets.
+This is the collection of my most useful code snippets.
 
 ## Requirements
 * Xcode 11.0 or later
@@ -8,7 +8,7 @@ It is the collection of my the most useful code snippets.
 
 ### Marks
 
-|Snippet prefix                                           |Result                         |
+|Snippet                                                  |Result                         |
 |---------------------------------------------------------|-------------------------------|
 |`Mark` with placeholder                                  |`// MARK: - (placeholder)`     |
 |`Actions`                                                |`// MARK: - Actions`           |
