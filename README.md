@@ -11,6 +11,7 @@ This is the collection of my most useful code snippets.
 |Snippet                                                  |Result                         |
 |---------------------------------------------------------|-------------------------------|
 |`Mark` with placeholder                                  |`// MARK: - (placeholder)`     |
+|`Todo` with placeholder                                  |`// TODO: - (placeholder)`     |
 |`Actions`                                                |`// MARK: - Actions`           |
 |`Lifecycle`                                              |`// MARK: - Lifecycle`         |
 |`Module functions`                                       |`// MARK: - Module functions`  |
