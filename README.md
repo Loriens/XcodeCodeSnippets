@@ -2,7 +2,11 @@
 This is the collection of my most useful code snippets.
 
 ## Requirements
-* Xcode 11.0 or later
+* Xcode 15.0 or later
+
+## Installation
+
+To install or update the snippets you need cd into the directory with snippets and write sh ./install.sh
 
 ## List of snippets
 
@@ -12,10 +16,8 @@ This is the collection of my most useful code snippets.
 |---------------------------------------------------------|-------------------------------|
 |`Mark` with placeholder                                  |`// MARK: - (placeholder)`     |
 |`Todo` with placeholder                                  |`// TODO: - (placeholder)`     |
-|`Actions`                                                |`// MARK: - Actions`           |
 |`Lifecycle`                                              |`// MARK: - Lifecycle`         |
-|`Module functions`                                       |`// MARK: - Module functions`  |
-|`Outlets`                                                |`// MARK: - Outlets`           |
-|`Props`                                                  |`// MARK: - Props`             |
+|`Private functions`                                      |`// MARK: - Private functions` |
+|`Props`                                                  |`// MARK: - Properties`        |
 |`Public functions`                                       |`// MARK: - Public functions`  |
 |`Setup functions`                                        |`// MARK: - Setup functions`   |

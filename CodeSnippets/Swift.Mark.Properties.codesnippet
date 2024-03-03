@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>module</string>
+	<string>props</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Module functions</string>
+	<string>// MARK: - Properties</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5F7F6C69-333D-4703-9D26-606E78E48DED</string>
+	<string>7959F96E-12C0-4569-BA68-9BB1FF7D41CC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Module functions</string>
+	<string>Properties</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>// MARK: - Module functions</string>
+	<string>// MARK: - Properties</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
